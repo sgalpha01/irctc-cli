@@ -1,0 +1,22 @@
+{
+  "fromStation": "SC",
+  "toStation": "VSKP",
+  "journeyDate": "01/01/2024",
+  "quota": "GENERAL",
+  "trainNumber": "20810",
+  "class": "3A",
+  "passengers": [
+    {
+      "name": "<Passenger1 Name>",
+      "age": "<Passenger1 Age>",
+      "gender": "<Passenger1 Gender>",
+      "berthPreference": "UB"
+    },
+    {
+      "name": "<Passenger2 Name>",
+      "age": "<Passenger2 Age>",
+      "gender": "<Passenger2 Gender>",
+      "berthPreference": "LB"
+    }
+  ]
+}
